@@ -1,0 +1,19 @@
+# == operator
+a = int (input("enter a number:"))
+b = 3
+print("a == b:", a == b)
+
+# != operator
+print("a != b:", a != b)
+
+# > operator
+print("a > b:", a > b)
+
+# < operator
+print("a < b:", a < b)
+
+# >= operator
+print("a >= b:", a >= b)
+
+# <= operator
+print("a <= b:", a <= b)
